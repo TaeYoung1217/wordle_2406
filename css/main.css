@@ -38,8 +38,8 @@ main {
   justify-content: right;
   align-items: center;
 }
-
-#toast_msg {
+/* 
+#toast_message {
   opacity: 0;
   position: fixed;
   bottom: -100px;
@@ -54,5 +54,5 @@ main {
 }
 #toast_message.active {
   opacity: 100%;
-  top: 50px;
-}
+  top: 30%;
+} */
